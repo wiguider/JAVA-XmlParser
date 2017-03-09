@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Liste de documents -->
+
+<documents>
+	<document id="d01" lang="fr">
+		<title>Parseur SAX pour XML</title>
+		<date day="1" month="11" year="2012" />
+		<authors>
+			<author>Ali</author>
+			<author>Said</author>
+		</authors>
+	</document>
+	<document id="d02" lang="en">
+		<title>DOM parser for XML</title>
+		<date day="7" month="1" year="2013" />
+		<authors>
+			<author>Driss</author>
+			<author>Khadija</author>
+		</authors>
+	</document>
+	
+</documents>
